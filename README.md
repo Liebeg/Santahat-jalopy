@@ -14,6 +14,7 @@ Place the downloaded files in your mods folder (default is Documents/Jalopy/Mods
 * `jaloader://install/Liebeg/Santahat-jalopy`
 
 # Images
+![thumb](https://github.com/user-attachments/assets/259bcd3d-6708-4c35-b5b8-54c0efa54487)
 
 
 # Credits
