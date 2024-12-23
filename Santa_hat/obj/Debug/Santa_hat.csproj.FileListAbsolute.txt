@@ -1,0 +1,8 @@
+C:\Users\Leo\source\repos\Santa_hat\Santa_hat\bin\Debug\Santa_hat.dll
+C:\Users\Leo\source\repos\Santa_hat\Santa_hat\bin\Debug\Santa_hat.pdb
+C:\Users\Leo\source\repos\Santa_hat\Santa_hat\bin\Debug\MonoMod.Backports.dll
+C:\Users\Leo\source\repos\Santa_hat\Santa_hat\obj\Debug\Santa_hat.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\Santa_hat\Santa_hat\obj\Debug\Santa_hat.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\Santa_hat\Santa_hat\obj\Debug\Santa_hat.csproj.Up2Date
+C:\Users\Leo\source\repos\Santa_hat\Santa_hat\obj\Debug\Santa_hat.dll
+C:\Users\Leo\source\repos\Santa_hat\Santa_hat\obj\Debug\Santa_hat.pdb
