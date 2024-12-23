@@ -13,3 +13,8 @@ Place the downloaded files in your mods folder (default is Documents/Jalopy/Mods
 * Open this link in a browser:
 * `jaloader://install/Liebeg/Santahat-jalopy`
 
+# Images
+
+
+# Credits
+* **Leaxx** - Model
